@@ -30,7 +30,7 @@
     */
     .mg-discount-text span {
         font-size: 18px;
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
     }
     /********************/
     /*
@@ -38,7 +38,7 @@
     */
     .mg-discount-section2 .mg-discount-text span {
         font-size: 18px;
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
     }
     /*************/
     /*
@@ -260,7 +260,7 @@
     *form and deatils section
     */
     .mg-form-and-deatails-main .mg-fd-product-title h5 {
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
         width: 100%;
         font-weight: 600;
         font-size: 14px;
@@ -324,7 +324,7 @@
     */
     .mg-ma-order-deatils .mg-mo-box a {
         text-decoration: none;
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
         color: #313131;
         font-weight: 600;
         font-size: 14px;
@@ -575,7 +575,7 @@
     }
     .mg-banner-text-inner h5 {
         font-size: 18px;
-        font-family: 'Mazzard-bold';
+        font-family: 'Roboto', sans-serif;
     }
     /*********************/
     /*
@@ -583,7 +583,7 @@
     */
     .mg-discount-text span {
         font-size: 14px;
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
     }
     /********************/
     /*
@@ -591,7 +591,7 @@
     */
     .mg-discount-section2 .mg-discount-text span {
         font-size: 14px;
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
     }
     /*************/
     /*
@@ -1197,7 +1197,7 @@
      */
     .mg-login-newsletter-text p {
         font-size: 12px;
-        font-family: 'Mazzardh-regular';
+        font-family: 'Roboto', sans-serif;
     }
     /*******************/
     /*
@@ -1333,7 +1333,7 @@
         text-overflow: ellipsis;
     }
     .mg-ma-order-deatils .mg-quanlity span {
-        font-family: 'Mazzardh-regular';
+        font-family: 'Roboto', sans-serif;
         font-size: 14px;
     }
     .mg-ma-order-deatils .mg-mo-box .mg-cpd-qty {
@@ -1513,7 +1513,7 @@
     */
     .mg-home2-pc-heading-text h5 {
         font-size: 28px;
-        font-family: 'Marcellus-regular';
+        font-family: 'Roboto', sans-serif;
         font-weight: 600;
     }
     .mg-prodct-carousel-style2 button.slick-prev.slick-arrow {
@@ -1738,7 +1738,7 @@
     *Header style
     */
     .mg-header-outer.mg-home-header {
-        background-image: linear-gradient(to left, #345333 200px, transparent calc(50% - 200px));
+        /*background-image: linear-gradient(to left, #345333 200px, transparent calc(50% - 200px));*/
         padding-top: 16px;
         padding-bottom: 16px;
     }
@@ -1786,15 +1786,20 @@
     /*    .mg-main-banner-section {
         height: 400px;
     }*/
+
+    .header-logo {
+        text-align: center;
+    }
     .mg-main-banner-section {
-        height: 100vh;
+        height: 75vh;
     }
     .mg-banner-text-outer {
         display: grid;
     }
     .mg-banner-text-inner {
-        width: 85%;
+        width: 100%;
         margin-top: 10px;
+        text-align: center;
     }
     .mg-banner-img {
         margin-left: 60px;
@@ -2683,7 +2688,7 @@
         width: 100%;
     }
     .mg-ma-order-deatils .mg-quanlity span {
-        font-family: 'Mazzardh-regular';
+        font-family: 'Roboto', sans-serif;
         font-size: 22px;
     }
     .mg-ma-order-deatils .mg-mo-box .mg-delivery-status h5 {
@@ -4133,7 +4138,7 @@
         font-size: 22px;
     }
     .mg-testimonial-btn {
-        top: 17%;
+        top: 10%;
     }
     /*******************/
     /*
@@ -4329,6 +4334,7 @@
     */
     .mg-tcb-inner p {
         font-size: 14px;
+        height: 165px;
     }
     .mg-tcb-inner h5 {
         font-size: 16px;

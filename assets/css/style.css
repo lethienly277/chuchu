@@ -51,7 +51,9 @@
 /*
 *Home 1 header section
 */
-
+.container {
+    padding: 0;
+}
 .mg-header-outer {
     padding-top: 40px;
     padding-bottom: 40px;
