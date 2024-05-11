@@ -596,7 +596,7 @@ span.mg-spcb-bar-two {
     color: #666565;
     font-family: 'Roboto', sans-serif;
     line-height: 19px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .mg-feature-service-outer .mg-feature-main:last-child .mg-feature-box {
@@ -1000,9 +1000,14 @@ span.mg-spcb-bar-two {
 }
 
 .mg-about-content p {
-    color: #70706ebd;
+    color: #666565;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
+}
+.mg-about-content p a{
+    color: #70706ebd !important;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 /*.mg-about-content a.btn {
