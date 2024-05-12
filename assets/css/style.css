@@ -263,7 +263,7 @@ a.mg-notify-count {
 }
 
 .mg-banner-text-inner p {
-    font-size: 16px;
+    font-size: 22px;
     width: 80%;
     font-family: 'Roboto', sans-serif;;
     margin-bottom: 28px;
@@ -530,7 +530,7 @@ span.mg-spcb-bar-two {
 
 .mg-feature-section {
     background-color: #F2F2EC;
-    padding-top: 70px;
+    padding-top: 40px;
     padding-bottom: 70px;
 }
 
@@ -540,9 +540,8 @@ span.mg-spcb-bar-two {
 }
 
 .mg-f-top-heading span {
-    font-family: ;
-    font-size: 18px;
-    color: #313131;
+    font-size: 30px;
+    color: #744f35;
 }
 
 .mg-f-top-heading h5 {
@@ -550,14 +549,15 @@ span.mg-spcb-bar-two {
     font-weight: 600;
     font-size: 36px;
     color: #313131;
+    margin-top: 16px;
 }
 
 .mg-f-top-text p {
-    color: #666565;
+    color: #313131;
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    line-height: 18px;
-    margin-top: 24px;
+    font-size: 20px;
+    line-height: 22px;
+    margin-top: 68px;
 }
 
 .mg-feature-box {
@@ -576,7 +576,7 @@ span.mg-spcb-bar-two {
 }
 
 .mg-feature-box .card-body img {
-    width: 45px;
+    width: 55px;
 }
 
 .mg-feature-service-outer {
@@ -590,15 +590,15 @@ span.mg-spcb-bar-two {
     font-weight: 700;
     font-size: 24px;
     margin-top: 20px;
-    color: #313131;
+    color: #744f35;
     margin-bottom: 20px;
 }
 
 .mg-feature-box .card-body p.card-text {
-    color: #666565;
+    color: #313131;
     font-family: 'Roboto', sans-serif;
     line-height: 19px;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .mg-feature-service-outer .mg-feature-main:last-child .mg-feature-box {
@@ -864,11 +864,11 @@ span.mg-spcb-bar-two {
 .mg-slider-overlay-inner span {
     color: #F2F2EC;
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .mg-slider-overlay-inner h5 {
-    font-size: 46px;
+    font-size: 55px;
     font-family: 'Roboto', sans-serif;
     color: #F2F2EC;
     margin-top: 14px;
@@ -879,6 +879,7 @@ span.mg-spcb-bar-two {
     color: #F2F2EC;
     margin-top: 30px;
     margin-bottom: 50px;
+    font-size: 20px;
 }
 
 .mg-slider-overlay-inner a {
@@ -989,12 +990,12 @@ span.mg-spcb-bar-two {
 .mg-about-content span {
     color: #313131;
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 600;
 }
 
 .mg-about-content h5 {
-    font-size: 38px;
+    font-size: 40px;
     font-family: 'Roboto', sans-serif;
     color: #313131;
     font-weight: 600;
@@ -1002,12 +1003,12 @@ span.mg-spcb-bar-two {
 }
 
 .mg-about-content p {
-    color: #666565;
+    color: #313131;
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 18px;
 }
 .mg-about-content p a{
-    color: #70706ebd !important;
+    color: #313131 !important;
     text-decoration: none;
     font-weight: bold;
 }
@@ -1277,9 +1278,9 @@ span.mg-spcb-bar-two {
 
 .mg-ito-text-content p {
     color: #313131;
-    line-height: 1;
+    line-height: 30px;
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 16px;
     margin-bottom: 60px;
 }
@@ -1564,9 +1565,9 @@ span.mg-spcb-bar-two {
 }
 
 .mg-ff-text p {
-    font-size: 14px;
+    font-size: 16px;
     color: #F2F2EC;
-    line-height: 16px;
+    line-height: 20px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -1724,7 +1725,7 @@ form.mg-newsletter-subs {
 .mg-copy-right-text span {
     color: #F2F2EC;
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .mg-copy-right-text a {
